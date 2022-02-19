@@ -6,6 +6,10 @@
 :root{
     font-family: serif, sans-serif, Verdana, Tahoma;
 }
+html,body{
+    /* color-variables */
+    --bg-color:#7b7c7d6d;
+}
 a{
     color: inherit;
     text-decoration: inherit;

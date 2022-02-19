@@ -1,5 +1,5 @@
 .quiz-container{
-    background-color:#7b7c7d6d;
+    background-color:var(--bg-color);
 }
 .quiz-navbar-container{
     flex-wrap: wrap;
