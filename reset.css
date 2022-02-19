@@ -40,3 +40,14 @@ a{
 .border-btm{
     border-bottom: 1px solid;
 }
+.d-column-centre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.bolder{
+    font-weight: bolder;
+}
