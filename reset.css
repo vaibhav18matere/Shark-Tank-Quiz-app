@@ -61,3 +61,17 @@ a{
 ul li{
     list-style-type: none;
 }
+.f-column{
+    display: flex;
+    flex-direction: column;
+}
+.f-start{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.fc-centre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
