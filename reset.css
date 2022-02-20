@@ -34,11 +34,18 @@ a{
 .w-fit{
     width: fit-content;
 }
+.w-half{
+    width: 50%;
+}
 .box-shadow{
     box-shadow: 0 0 3px 2px var(--secondary);
 }
 .border-btm{
     border-bottom: 1px solid;
+}
+.d-column{
+    display: flex;
+    flex-direction: column;
 }
 .d-column-centre{
     display: flex;
@@ -50,6 +57,9 @@ a{
 }
 .bolder{
     font-weight: bolder;
+}
+ul li{
+    list-style-type: none;
 }
 .f-column{
     display: flex;
