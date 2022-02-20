@@ -1,0 +1,36 @@
+.quiz-container{
+    background-color:var(--bg-color);
+}
+.profile-main-container {
+    padding-top: 3rem;
+    gap: 2rem;
+}
+.profile-main {
+    margin-top: 2rem;
+    border: 0.2px solid var(--secondary);
+    padding: 2rem 3rem 0rem 3rem;
+    border-radius: 0.8rem;
+    background: var(--info-bg);
+}
+.profile-details-main {
+    display: flex;
+    gap: 2rem;
+}
+.icon-container{
+    margin-bottom: 3rem;
+}
+.para-md{
+    padding: 1rem;
+}
+.profile-details-main div .paragraph-md {
+    padding-bottom: 1rem;
+}
+.logout-btn{
+    display: flex;
+    flex-direction: column;
+}
+@media screen and (max-width:550px) {
+    .profile-main {
+      padding: 2rem 2rem 0rem 2rem;
+    }
+}
