@@ -1,0 +1,14 @@
+.quiz-question-card{
+    gap: 2rem;
+    padding: 2.5rem;
+    width: 50%;
+}
+.option-items{
+    padding: 1rem;
+    background: var(--secondary-light);
+    border-radius: 0.5em;
+    font-size: 1.2rem;
+    margin: 0.5rem;
+    cursor: pointer;
+}
+

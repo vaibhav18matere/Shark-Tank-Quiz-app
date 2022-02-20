@@ -1,0 +1,19 @@
+.option-items{
+    padding: 1rem;
+    background: var(--secondary-light);
+    border-radius: 0.5em;
+    font-size: 1.2rem;
+    margin: 0.5rem;
+    cursor: pointer;
+}
+.correct-ans{
+    background-color: var(--whatsapp);
+}
+.wrong-ans{
+    background-color: var(--cart-btn);
+}
+.result-container{
+    flex-wrap: wrap;
+    gap: 3rem;
+    padding: 2rem;
+}
