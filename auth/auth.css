@@ -1,0 +1,45 @@
+.auth-container {
+    height: 90vh;
+    flex-direction: column;
+}
+.auth-main-container {
+    flex-direction: column;
+    width: 25rem;
+    padding: 1.5rem;
+    gap: 1.5rem;
+}
+.auth-main,
+.auth-checkbox {
+    gap: 1.2rem;
+    font-size: 1.2rem;
+}
+.auth-main input {
+    border-radius: var(--secondary);
+    border: 2px solid var(--secondary-light);
+    font-size: 1.25rem;
+    padding: 0.3rem 1rem;
+    cursor: pointer;
+}
+.auth-main input::placeholder {
+    font-size: 0.8rem;
+}
+.auth-checkbox {
+    gap: 0.1rem
+}
+.auth-checkbox label {
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+    cursor: pointer;
+}
+.auth-checkbox a {
+    color: var(--primary-color);
+    margin-left: 1rem;
+}
+label[for=mail],
+label[for=pwd] {
+    margin-bottom: 0.5rem;
+}
+.link-btn{
+    color: var(--white);
+}
