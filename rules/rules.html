@@ -4,26 +4,28 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://falconui.netlify.app/styles.css">
     <link rel="stylesheet" href="/reset.css">
     <link rel="stylesheet" href="rules.css">
     <title>Quiz Rules</title>
 </head>
+<body>
     <div class="quiz-container">
         <ul class="quiz-navbar-container d-flex border-btm">
             <div class="navbar-title flex-center pad-lft">
-                <h3 class="quiz-title txt-space">Shark Tank Quiz</h3>
+                <a href="/index.html">
+                    <h3 class="quiz-title txt-space uppercase">Shark Tank Quiz</h3>
+                </a>
             </div>
-            <div class="navbar-user-info pad-rht">                                  
-                <button class="btn btn-light nav-rules">
+            <div class="navbar-user-info">
+                <button class="btn btn-light nav-rules mr-1">
                     <a href="/auth/signup.html">Signup</a>
                 </button>                                  
                 <a href="/auth/login.html">
-                    <i class="fa fa-user-o fa-2x" aria-hidden="true"></i>
-                </a>              
+                    <i class="fa fa-user-o fa-2x mr-1" aria-hidden="true"></i>
+                </a>            
             </div>
-        </ul>
+        </ul> 
         <main class="rule-container flex-center">
             <div class="rule-main-container flex-center">
                 <div class="rule-header">
@@ -49,7 +51,7 @@
                 </div>
                 <div class="flex-center">
                     <button class="btn btn-light">
-                        <a href="#">Start Quiz</a>
+                        <a href="/questions/questions.html">Start Quiz</a>
                     </button>
                 </div>
             </div>

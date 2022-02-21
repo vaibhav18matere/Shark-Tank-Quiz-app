@@ -7,7 +7,7 @@
     cursor: pointer;
 }
 .correct-ans{
-    background-color: var(--whatsapp);
+    background-color: var(--whatsapp-clr);
 }
 .wrong-ans{
     background-color: var(--cart-btn);

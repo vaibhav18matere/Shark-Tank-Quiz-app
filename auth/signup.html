@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://falconui.netlify.app/styles.css">
     <link rel="stylesheet" href="/reset.css">
     <link rel="stylesheet" href="auth.css">
@@ -14,23 +13,25 @@
         <div class="quiz-container">
             <ul class="quiz-navbar-container d-flex border-btm">
                 <div class="navbar-title flex-center pad-lft">
-                    <h3 class="quiz-title txt-space">Shark Tank Quiz</h3>
+                    <a href="/index.html">
+                        <h3 class="quiz-title txt-space uppercase">Shark Tank Quiz</h3>
+                    </a>
                 </div>
-                <div class="navbar-user-info pad-rht">
-                    <button class="btn btn-light nav-rules">
+                <div class="navbar-user-info">
+                    <button class="btn btn-light nav-rules mr-1">
                         <a href="/auth/signup.html">Signup</a>
                     </button>                                  
                     <a href="/auth/login.html">
-                        <i class="fa fa-user-o fa-2x" aria-hidden="true"></i>
+                        <i class="fa fa-user-o fa-2x mr-1" aria-hidden="true"></i>
                     </a>            
                 </div>
-            </ul>          
+            </ul>         
             <div class="auth-container flex-center">
                 <div class="auth-main-container flex-center box-shadow">
                     <div class="auth-title">
                         <h2 class="text-center">Sign Up</h2>
                     </div>
-                    <div class="auth-main fc-centre">
+                    <div class="auth-main dc-cenre">
                         <div class="auth-email f-column">
                             <label for="mail">Email Address</label>
                             <input placeholder="user123@gmail.com" class='text-input' type="text">

@@ -28,6 +28,9 @@ a{
 .pad-lft{
     padding-left: 1rem;
 }
+.mr-1{
+    margin: 1rem;
+}
 .w-full{
     width: 100%;
 }
@@ -70,8 +73,15 @@ ul li{
     flex-wrap: wrap;
     justify-content: flex-start;
 }
-.fc-centre{
+.dc-cenre{
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+.quiz-container{
+    background-color:var(--bg-color);
+}
+.quiz-navbar-container{
+    flex-wrap: wrap;
+    font-size: 1rem;
 }
