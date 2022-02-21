@@ -3,8 +3,6 @@
 ### Preview
 ![quiz-preview](https://user-images.githubusercontent.com/59862355/154953313-909eda63-385e-4af9-8ffb-38f7d2089b2f.gif)
 
-### Features
-
 ### Components 
 1. [Quiz Categories](https://quizz-mania.netlify.app/#explore)
 2. [Quiz Rules](https://quizz-mania.netlify.app/rules/rules.html)
