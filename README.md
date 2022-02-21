@@ -1,12 +1,9 @@
 # Shark Tank - Quiz app
 
-Buy vintage collections of cars easily and without auction !
+### Preview
+![quiz-preview](https://user-images.githubusercontent.com/59862355/154953313-909eda63-385e-4af9-8ffb-38f7d2089b2f.gif)
 
-## Preview
-
-
-## Features
-
+### Features
 
 ### Components 
 1. [Quiz Categories](https://quizz-mania.netlify.app/#explore)
@@ -18,7 +15,7 @@ Buy vintage collections of cars easily and without auction !
 7. [Forget Password](https://quizz-mania.netlify.app/auth/password.html)
 
 
-## Live Project ink
+### Live Project ink
 
 ```bash 
 
@@ -27,7 +24,7 @@ https://quizz-mania.netlify.app
 
 ```
 
-## Author
+### Author
 
 - [@vaihbav18matere](https://github.com/vaibhav18matere)
 
@@ -36,7 +33,7 @@ https://quizz-mania.netlify.app
 
 If you have any feedback/suggestions, please reach out to me at vpm00718897@gmail.com
 
-## 🔗 Or ping me here :
+#### 🔗 Or ping me here :
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vaibhavmatere.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavmatere/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vaibhav_matere)
