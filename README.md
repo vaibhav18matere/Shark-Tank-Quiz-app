@@ -12,8 +12,8 @@ Buy vintage collections of cars easily and without auction !
 1. [Quiz Categories](https://quizz-mania.netlify.app/#explore)
 2. [Quiz Rules](https://quizz-mania.netlify.app/rules/rules.html)
 3. [Quiz Questions](https://quizz-mania.netlify.app/questions/questions.html)
-4. [Resuls](https://quizz-mania.netlify.app/answeres/answers.html)
-5. [Login](https://quizz-mania.netlify.app/auth/login.html)
+4. [Result](https://quizz-mania.netlify.app/answeres/answers.html)
+5. [LogIn](https://quizz-mania.netlify.app/auth/login.html)
 6. [SignUp](https://quizz-mania.netlify.app/auth/signup.html)
 7. [Forget Password](https://quizz-mania.netlify.app/auth/password.html)
 
